@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=180&section=header&text=Uday%20Sapate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Backend%20Engineering%20|%20Cloud%20%26%20DevOps&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,50:3b82f6,100:60a5fa&amp;height=180&amp;section=header&amp;text=Uday%20Sapate&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20|%20Backend%20Engineering%20|%20Cloud%20%26%20DevOps&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
 </div>
 
 # Hey, I'm Uday Sapate 👋
@@ -25,7 +25,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td><b>🎨 Frontend</b></td>
+<td><b>Frontend</b></td>
 <td>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
@@ -36,7 +36,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td><b>⚙️ Backend</b></td>
+<td><b>Backend</b></td>
 <td>
 <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
@@ -45,7 +45,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td><b>☁️ Cloud</b></td>
+<td><b>Cloud</b></td>
 <td>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <!-- <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/> -->
@@ -53,7 +53,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td><b>📦 Containerization</b></td>
+<td><b>Containerization</b></td>
 <td>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -62,14 +62,14 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td><b>🔁 CI/CD</b></td>
+<td><b>CI/CD</b></td>
 <td>
 <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </td>
 </tr>
 
 <tr>
-<td><b>💻 Languages</b></td>
+<td><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
@@ -77,7 +77,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td><b>🗄️ Databases</b></td>
+<td><b>Databases</b></td>
 <td>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -88,7 +88,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 
 <!-- --- -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -181,12 +181,12 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 
 ---
 
-### 📄 For Recruiters
+### For Recruiters
 
-[![Resume](https://img.shields.io/badge/📄_View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ENzw2OZ-OGtpCy54gAFvdaMjLAB1e5vD/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/_View_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ENzw2OZ-OGtpCy54gAFvdaMjLAB1e5vD/view?usp=sharing)
 
 > 💼 Interested in working together? Feel free to download my resume and reach out!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,50:3b82f6,100:60a5fa&amp;height=120&amp;section=footer" width="100%"/>
 </div>
