@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,50:3b82f6,100:60a5fa&amp;height=180&amp;section=header&amp;text=Uday%20Sapate&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20|%20Backend%20Engineering%20|%20Cloud%20%26%20DevOps&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,50:3b82f6,100:60a5fa&amp;height=150&amp;section=header" width="100%"/>
 </div>
 
 # Hey, I'm Uday Sapate 👋
