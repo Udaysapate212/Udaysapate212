@@ -92,7 +92,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 <h3><a href="https://github.com/Udaysapate212/Grocito-Copy">Grocito</a></h3>
 <p>Multi role grocery delivery platform with secure authentication, real time order workflows, payment integration, and scalable backend architecture.</p>
@@ -106,7 +106,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 <h3><a href="https://github.com/Udaysapate212/Playgorithm">Playgorithm</a></h3>
 <p>Interactive DSA and AI learning platform with gamified modules, visualizers, and scalable backend services.</p>
@@ -123,7 +123,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 <h3><a href="https://github.com/Udaysapate212/QUESTION-SERVICE_QUIZ-APPLICATION_MICROSERVICE-1">Quiz Application Microservices</a></h3>
 <p>Microservices based quiz platform built using Spring Boot with service communication, API gateway, and scalable distributed architecture.</p>
@@ -136,7 +136,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 <h3><a href="https://github.com/Udaysapate212/dockerized-todo-node-app">Dockerized To Do App</a></h3>
 <p>Cloud ready To Do application with CI/CD automation, Dockerized deployment workflow, and scalable backend services.</p>
@@ -152,7 +152,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 <h3><a href="https://github.com/Udaysapate212/CLOUD_DEPLOYMENT_PROJECTS">Cloud Native Job App</a></h3>
 <p>Backend focused cloud native application with containerized deployment, AWS integration, and scalable orchestration.</p>
@@ -165,7 +165,7 @@ I am a pre final year Computer Engineering student at MIT Academy of Engineering
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left: 20px;">
 
 <h3><a href="https://github.com/Udaysapate212?tab=repositories">Explore More →</a></h3>
 <p>Explore more backend, cloud, DevOps, and full stack projects ranging from scalable systems to cloud native deployments and automation workflows.</p>
